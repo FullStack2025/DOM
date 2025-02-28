@@ -1,3 +1,5 @@
 # DOM-Projects
 
-<img src="./DOMMethods2.png" alt="Girl in a jacket">
+<img src="./DOMMethods1.png" alt="js">
+<img src="./DOMMethods2.png" alt="DOm">
+
